@@ -6,7 +6,56 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Welcome!
 
+Welcome to my personal and professional portfolio. While this space is normally dedicated to my academic journey, research focus, and teaching blocks, today features a very important milestone. 
+
+## Partner Highlights & Future Vision
+
+Behind every great researcher is an incredible foundation of support. This page is dedicated to celebrating the journey so far and the exciting road ahead.
+
+### Our Story
+* **Milestone:** Celebrating 9 wonderful months together!
+* **The Journey:** Building an amazing foundation together, navigating grad school, and supporting each other's massive career goals every step of the way.
+
+---
+
+## The Future Research Professor
+
+Jack is currently navigating the final, demanding chapters of a PhD program. The ultimate goal? Transitioning into a full-time research professorship at a university, combining a passion for deep academic inquiry with mentorship.
+
+### Areas of Academic Promise
+* **Rigorous Methodology:** Bringing unmatched dedication to complex problem-solving.
+* **Future Faculty Impact:** Shaping the next generation of thinkers through engaging lecture design and patient, thoughtful guidance.
+* **Publication Pipeline:** (Forthcoming) Transforming breakthrough dissertation insights into high-impact peer-reviewed journal articles.
+
+---
+
+## Gallery & Memories
+
+*If you uploaded photos to your `images` folder, you can replace the placeholder URLs below with your exact filenames (e.g., `/images/us.jpg`) to make them show up!*
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  
+  <!-- Photo Block 1 -->
+  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center; background: #fafbfc;">
+    <img src="https://via.placeholder.com/300x200?text=Photo+of+Us" alt="Us" style="max-width: 100%; border-radius: 4px; margin-bottom: 10px;">
+    <strong>Celebrating 9 Months</strong>
+    <p style="font-size: 0.9em; color: #586069; margin-top: 5px;">A snapshot of the incredible foundation we've built.</p>
+  </div>
+
+  <!-- Photo Block 2 -->
+  <div style="flex: 1; min-width: 250px; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; text-align: center; background: #fafbfc;">
+    <img src="https://via.placeholder.com/300x200?text=Photo+of+Jack" alt="Jack" style="max-width: 100%; border-radius: 4px; margin-bottom: 10px;">
+    <strong>The Future Professor</strong>
+    <p style="font-size: 0.9em; color: #586069; margin-top: 5px;">Hard at work conquering the PhD mountain.</p>
+  </div>
+
+</div>
+
+<div style="margin-top: 40px; border-top: 1px solid #e1e4e8; padding-top: 20px; text-align: center; font-style: italic; color: #586069;">
+  "To showing up for each other, even when original plans fall through."
+</div>
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
