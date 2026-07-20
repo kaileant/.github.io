@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jack Fox Keen - PhD student in the Department of Computer Science and Engineering at UC Santa Cruz"
+title: "Jack Fox Keen - PhD Student in the Department of Computer Science and Engineering at UC Santa Cruz"
 author_profile: true
 redirect_from: 
   - /about/
