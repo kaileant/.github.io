@@ -6,7 +6,58 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  /* --- Squarespace & Modern Aesthetic Overrides --- */
+  
+  /* Modern typography and premium breathing room */
+  body, .page__content {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    background-color: #fcfcfd !important;
+    color: #1a1a1a !important;
+  }
 
+  .page__content p, .page__content li {
+    font-size: 1.15rem !important;
+    line-height: 1.85 !important;
+    color: #3b3b3b !important;
+  }
+
+  /* Soften headlines and remove harsh academic lines */
+  h1, h2, h3, h4, .page__title {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !important;
+    font-weight: 600 !important;
+    color: #111111 !important;
+    letter-spacing: -0.02em !important;
+  }
+
+  h2 {
+    border-bottom: none !important; /* Removes the default harsh gray line */
+    margin-top: 2.5em !important;
+    font-size: 1.8rem !important;
+  }
+
+  /* Transform the sidebar into a modern minimalist card */
+  .sidebar {
+    border: none !important;
+    background: #ffffff !important;
+    padding: 25px !important;
+    border-radius: 12px !important;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.04) !important;
+  }
+
+  .author__avatar img {
+    border-radius: 50% !important; /* Turns profile image into a circle */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08) !important;
+  }
+
+  /* Clean, elegant divider fades instead of harsh rules */
+  hr {
+    border: 0 !important;
+    height: 1px !important;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0)) !important;
+    margin: 4em 0 !important;
+  }
+</style>
 # Welcome!
 
 Welcome to my personal and professional portfolio. While this space is normally dedicated to my academic journey, research focus, and teaching blocks, today features a very important milestone. 
